@@ -3,7 +3,7 @@
         <nav class="navbar navbar-expand-lg bg-body-tertiary my-4">
             <div class="container-fluid">
                 <router-link to="/" class="navbar-brand">
-                    <img src="../assets/CacaoLogoYellow.887ceb5.svg" width="130" alt="CocoWebStudio" class="d-inline align-text-top h-auto">
+                    <img src="/CacaoLogoYellow.887ceb5.svg" width="130" alt="CocoWebStudio" class="d-inline align-text-top h-auto">
                 </router-link>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

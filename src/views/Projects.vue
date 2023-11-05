@@ -26,32 +26,32 @@ export default {
                 {
                     title: 'Matte CG',
                     description: 'Recognized Ecuadorian Animation Studio, VFX and Film, with a long history in the creation of custom projects fo content and advertising workdwide.',
-                    imgPath: '/src/assets/matte.svg'
+                    imgPath: '/matte.svg'
                 },
                 {
                     title: 'Rahua',
                     description: 'It was developed for a large and recognized ecommerce company that is dedicated to the care of hair, skin and face, with natural and pure organic ingredients derived from plants.',
-                    imgPath: '/src/assets/rahua.svg'
+                    imgPath: '/rahua.svg'
                 },
                 {
                     title: 'De Chez Moi',
                     description: 'Entrepreneurship by Juan Pablo Aguilar Lliguin, De Chez Moí is an ecommerce dedicated to the development of high-end organic chocolates.',
-                    imgPath: '/src/assets/dechezmoi.svg'
+                    imgPath: '/dechezmoi.svg'
                 },
                 {
                     title: 'EPS S.A',
                     description: 'Electric Power Solutions, Company focused on the electricity sector, with a big experience in the commercialization of equipment and supplies for electrical distribution, transmission and substation systems.',
-                    imgPath: '/src/assets/eps.svg'
+                    imgPath: '/eps.svg'
                 },
                 {
                     title: 'Club Mécanique Des Femmes',
                     description: 'It is an idea created by Annie Barrette, whose main objective is to offer basic car maintenance workshops for women, throughout Quebec.',
-                    imgPath: '/src/assets/club-mecanique.svg'
+                    imgPath: '/club-mecanique.svg'
                 },
                 {
                     title: 'Tour en Praga',
                     description: 'Tour in Prague, is a company dedicated to offer different tours and excursions in Spanish in the city of Prague, Czech Republic.',
-                    imgPath: '/src/assets/tourenpraga.svg'
+                    imgPath: '/tourenpraga.svg'
                 },
             ],
             actualSize: window.innerWidth,

@@ -1,6 +1,6 @@
 <template>
   <main class="main-content">
-    <img id="bigLogo" src="../assets/CacaoBigLogo.887ceb5.svg" alt="big_logo">
+    <img id="bigLogo" src="/CacaoBigLogo.887ceb5.svg" alt="big_logo">
     <h1 v-motion-slide-top :delay="500" class="color-FFAB4D text-lg-start text-md-center text-center my-5">Cacao Web Studio</h1>
     <p v-motion-slide-left :delay="700" style="font-size: 4vw;" class="text-company-presentation fw-bolder text-lg-start text-md-center text-sm-center text-center">Tell us about the project you want to do</p>
     <p v-motion-slide-right :delay="900" style="font-size: 4vw;" class="text-company-presentation fw-bolder text-lg-start text-md-center text-sm-center text-center">We convert your ideas to web projects</p>
